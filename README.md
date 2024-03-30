@@ -12,7 +12,7 @@ Some people might know me as shaguette.<br/><br/>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I87ZFES)
 
 ## Github stats
-[![My github stats](https://github-readme-stats.vercel.app/api?username=whitenenone00&count_private=true&include_all_commits=true&theme=vision-friendly-dark&show_icons=true)](https://stats.xardam.com)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=whiteneone00&count_private=true&include_all_commits=true&theme=vision-friendly-dark&show_icons=true)](https://stats.xardam.com)
 
 ## How can you contact me:
 By email, at **contact@xardam.com**
