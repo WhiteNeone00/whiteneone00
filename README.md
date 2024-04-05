@@ -5,7 +5,7 @@
 </p>
 
 ### Hi! Welcome to my profile!
-I'm X_ArdaM_, and I'm Albaniam<br/> 
+I'm Arda Murtezan, and I'm Albaniam<br/> 
 I ❤ 🥖.<br/> 
 I have a dog called sara which is really poggers: you can get a picture of him on [random.pepsi.xardam.xyz](https://random.pepsi.xshadow.xyz)<br/> 
 Some people might know me as shaguette.<br/><br/>
