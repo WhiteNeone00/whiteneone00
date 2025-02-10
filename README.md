@@ -15,6 +15,6 @@ Some people might know me as shaguette.<br/><br/>
 [![My github stats](https://github-readme-stats.vercel.app/api?username=whiteneone00&count_private=true&include_all_commits=true&theme=vision-friendly-dark&show_icons=true)](https://stats.xaram.com)
 
 ## How can you contact me:
-By email, at **contact@xardam.com**
+By email, at **contact@xaram.com**
 With Discord, on my discord server ([discord.gg/Rp4ea8mX3k](https://discord.gg/Rp4ea8mX3k))
 Via twitter @xaram
